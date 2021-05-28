@@ -220,3 +220,15 @@ update-database
 After this the website should be up and you can add or remove and play around with it anyway you want!
 
 
+We have search feature.
+![search](https://user-images.githubusercontent.com/46537188/120049913-64ca1480-bfd0-11eb-88f6-1b8b5af431bb.png)
+
+![Screenshot 2021-05-28 191929](https://user-images.githubusercontent.com/46537188/120049950-84613d00-bfd0-11eb-8a90-d34b01b83a97.png)
+
+
+
+
+
+
+
+
