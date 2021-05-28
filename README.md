@@ -206,7 +206,17 @@ This will generate along side the Views which should create a Create, Delete, De
 Now if you run the page it should look somthing along the lines of this. I added some images so dont worry.
 ![testwebpage](https://user-images.githubusercontent.com/46537188/120049298-61ce2480-bfce-11eb-9083-7408e4af592b.png)
 
+- The only issue might occur, i cant remember if this happens b4 or after you click on the jokes page that i have but you can access it in the url via /jokes if you set up the site properly. --- You should get an error due to not linking your db with the site. That is an ez fix. In this case we will use migrations.
+ 
+- ^^ this is cuz no one likes using DAO ( data access object) but we rather use ORM or (OBject relational Mapper) basically get vs to do the work for us rather than writing our own sql.
 
+you are gonna want to type few lines in the package manager console.
+```
+enable-migrations
+add-migration "What ever you wanna write here"
+update-database
+```
 
+After this the website should be up and you can add or remove and play around with it anyway you want!
 
 
