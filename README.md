@@ -231,6 +231,22 @@ We have login page.
 
 
 
+What is dependency Injection?
+![what is dependency](https://user-images.githubusercontent.com/46537188/120371445-ae657880-c2ca-11eb-997d-bbe9a880f9e6.png)
+
+So as an example
+What we want is to inject the repo dependency into the item controller
+
+![what we want](https://user-images.githubusercontent.com/46537188/120371500-c63cfc80-c2ca-11eb-8a3a-205eb875a032.png)
+
+
+
+How to register and inject dependencies in .NET 5
+
+How to implement Data Transfer Objects (DTOs)
+
+How to map entities to DTOs
+
 
 
 
