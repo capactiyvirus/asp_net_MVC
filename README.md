@@ -229,6 +229,11 @@ We have login page.
 ![login](https://user-images.githubusercontent.com/46537188/120050086-fcc7fe00-bfd0-11eb-9904-9752278ae60f.png)
 
 
+<br>
+
+
+
+
 
 
 What is dependency Injection?
@@ -238,7 +243,10 @@ So as an example
 What we want is to inject the repo dependency into the item controller
 
 ![what we want](https://user-images.githubusercontent.com/46537188/120371500-c63cfc80-c2ca-11eb-8a3a-205eb875a032.png)
+![what we get](https://user-images.githubusercontent.com/46537188/120371723-0e5c1f00-c2cb-11eb-9da4-d37f9b5587c3.png)
 
+So to register and construct the dependencies
+![Depend](https://user-images.githubusercontent.com/46537188/120371843-406d8100-c2cb-11eb-8809-bc62ab52999a.png)
 
 
 How to register and inject dependencies in .NET 5
